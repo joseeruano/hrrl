@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Hello world!	</title>
-	<atom:link href="http://localhost/sitioweb_darling/2023/05/19/hello-world/feed/?simply_static_page=426" rel="self" type="application/rss+xml" />
-	<link>https://joseeruano.github.io/hrrl/2023/05/19/hello-world/</link>
+	<atom:link href="http://localhost/sitioweb_darling/hello-world/feed/?simply_static_page=654" rel="self" type="application/rss+xml" />
+	<link>https://joseeruano.github.io/hrrl/hello-world/</link>
 	<description>Talent Solutions</description>
 	<lastBuildDate>Fri, 19 May 2023 19:00:57 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,7 +20,7 @@
 	<item>
 		<title>
 		By: A WordPress Commenter		</title>
-		<link>https://joseeruano.github.io/hrrl/2023/05/19/hello-world/#comment-1</link>
+		<link>https://joseeruano.github.io/hrrl/hello-world/#comment-1</link>
 
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
 		<pubDate>Fri, 19 May 2023 19:00:57 +0000</pubDate>
