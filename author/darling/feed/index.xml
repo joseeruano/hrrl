@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Darling &#8211; HRRL</title>
-	<atom:link href="http://localhost/sitioweb_darling/author/darling/feed/?simply_static_page=4411" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/sitioweb_darling/author/darling/feed/?simply_static_page=4858" rel="self" type="application/rss+xml" />
 	<link>https://joseeruano.github.io/hrrl</link>
 	<description>Talent Solutions</description>
 	<lastBuildDate>Fri, 19 May 2023 19:00:57 +0000</lastBuildDate>
@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.2.2</generator>
+	<generator>https://wordpress.org/?v=6.3.1</generator>
 
 <image>
 	<url>https://joseeruano.github.io/hrrl/wp-content/uploads/2023/05/cropped-logo-con-fondo-32x32.jpeg</url>
